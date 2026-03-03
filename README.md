@@ -28,10 +28,10 @@
   />
 </p>
 
-- I love food. Yum yum.
+- I love food. Yum Yum!
 - Most of my projects are private (classified tech 👀).
 - Fun fact: I am a BEEP-BEEP (Microwave).
-- I am currently figuring things out.
+- I am currently figuring things out...
 - Reach out to me: `rishavwork30@gmail.com`
 - For more details, check out my repositories.
 - Check out my <a href="https://www.instagram.com/erro_rcodee/">Instagram</a>
