@@ -11,9 +11,7 @@
 
 <br>
 
-## Portfolio
-
-<p align="center">
+## Portfolio: <p align="center">
   <a href="https://portfolio-rishav.pages.dev/">
     <kbd>&#x1F680; Visit My Portfolio</kbd>
   </a>
