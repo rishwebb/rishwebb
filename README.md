@@ -13,10 +13,6 @@
 
 <div align="center">
 
-# 🌌 Portfolio Universe
-
-### Building apps, experiments, and occasionally breaking reality.
-
 <a href="https://portfolio-rishav.pages.dev">
 <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111"/>
 </a>
