@@ -11,23 +11,24 @@
 
 <br>
 
-## 🚀 Portfolio Hub
+<div align="center">
 
-<p align="center">
+# 🌌 Portfolio Universe
+
+### Building apps, experiments, and occasionally breaking reality.
 
 <a href="https://portfolio-rishav.pages.dev">
-  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/ENTER_PORTFOLIO-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111"/>
 </a>
 
-<a href="https://github.com/rishwebb">
-  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br><br>
 
-<a href="mailto:rishavwork30@gmail.com">
-  <img src="https://img.shields.io/badge/📬_Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Projects-30+-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android"/>
+<img src="https://img.shields.io/badge/Open_Source-Builder-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Currently-Cooking_Ideas-ff69b4?style=for-the-badge"/>
 
-</p>
+</div>
 
 <img
   align="right"
