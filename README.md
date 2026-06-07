@@ -14,7 +14,10 @@
 <div align="center">
 
 <a href="https://portfolio-rishav.pages.dev">
-<img src="https://img.shields.io/badge/ENTER_PORTFOLIO-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111"/>
+  <img
+    src="https://img.shields.io/badge/ENTER_PORTFOLIO-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111"
+    height="40"
+  />
 </a>
 
 <br><br>
