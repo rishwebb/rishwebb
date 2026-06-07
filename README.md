@@ -11,7 +11,23 @@
 
 <br>
 
-## Portfolio: https://portfolio-rishav.pages.dev
+## 🚀 Portfolio Hub
+
+<p align="center">
+
+<a href="https://portfolio-rishav.pages.dev">
+  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/rishwebb">
+  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:rishavwork30@gmail.com">
+  <img src="https://img.shields.io/badge/📬_Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 <img
   align="right"
